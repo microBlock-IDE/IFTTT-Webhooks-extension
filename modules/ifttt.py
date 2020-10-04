@@ -23,5 +23,4 @@ def trigger(key='', event='', value1='', value2='', value3=''):
     s.write(payload)
     ros = s.read()
     s.close()
-    print(ros)
     return ros
