@@ -27,6 +27,20 @@
                     </value>
                 </block>
             `
+        },
+        {
+            xml: `
+                <block type="text">
+                    <field name="TEXT">--IFTTT-Value2--</field>
+                </block>
+            `
+        },
+        {
+            xml: `
+                <block type="text">
+                    <field name="TEXT">--IFTTT-Value3--</field>
+                </block>
+            `
         }
     ]
 });
