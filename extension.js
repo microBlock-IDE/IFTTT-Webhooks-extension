@@ -17,7 +17,7 @@
                     </value>
                     <value name="event">
                         <shadow type="text">
-                            <field name="TEXT">--IFTTT-Key--</field>
+                            <field name="TEXT">--IFTTT-Event--</field>
                         </shadow>
                     </value>
                     <value name="value1">
