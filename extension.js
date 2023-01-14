@@ -3,7 +3,7 @@
     description: "allows you to integrate other services on IFTTT",
     author: "microBlock",
     category: "Communication",
-    version: "1.0.0",
+    version: "1.1.0",
     icon: "/static/icon.png", // Category icon
     color: "#3498DB", // Category color (recommend some blocks color)
     blocks: [ // Blocks in Category
